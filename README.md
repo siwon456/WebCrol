@@ -19,7 +19,7 @@
 
 ├── model/
 
-│                 ""├── biLstm.py               # biLstm 모델 
+│                 ├── biLstm.py               # biLstm 모델 
 
 │                 ├── game_review_model.keras # 훈련된 모델
 
