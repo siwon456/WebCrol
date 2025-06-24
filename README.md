@@ -34,3 +34,4 @@
 │                 └── streamlit_emotion       # 스트림릿 사이트
 
 └── README.md 
+![Image](https://github.com/user-attachments/assets/007b3ce1-85f3-4b18-8ff8-26b43319c03d)
