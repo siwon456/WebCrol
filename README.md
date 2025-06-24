@@ -19,18 +19,18 @@
 
 ├── model/
 
-│     ├── biLstm.py               # biLstm 모델 
+│                 ├── biLstm.py               # biLstm 모델 
 
-│     ├── game_review_model.keras # 훈련된 모델
+│                 ├── game_review_model.keras # 훈련된 모델
 
-│     └── tokenizer.pkl           # 토크나이저
+│                 └── tokenizer.pkl           # 토크나이저
 
 ├── Crol/
 
-│     └── crawler.py              # 리뷰 수집 스크립트
+│                 └── crawler.py              # 리뷰 수집 스크립트
 
 ├── stream/
 
-│     └── streamlit_emotion       # 스트림릿 사이트
+│                 └── streamlit_emotion       # 스트림릿 사이트
 
 └── README.md 
